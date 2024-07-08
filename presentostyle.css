@@ -1,0 +1,250 @@
+/* General Properties */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* General Properties */
+
+/* =============================================================================================================================== */
+
+/* Navbar */
+
+.navbar-brand {
+    font-size: 32px;
+    font-weight: 700;
+    margin: 0;
+    color: black;
+    font-family: "Raleway", sans-serif;
+}
+
+.dot {
+    font-size: 42px;
+    font-weight: 700;
+    color: #e03a3c;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.get-start:hover {
+    opacity: 0.9;
+
+}
+
+.nav-link {
+    color: black;
+}
+
+/* Navbar */
+
+/* =============================================================================================================================== */
+
+/* Hero Section */
+
+.heroimg {
+    width: 100%;
+    height: 800px;
+    object-fit: cover;
+}
+
+.fa-circle-play {
+    font-size: 35px;
+    padding-top: 5px;
+}
+
+.btn-txt {
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.hero-h2 {
+    margin: 0;
+    font-size: 48px;
+    font-weight: 700;
+    color: white;
+}
+
+.hero-p {
+    margin: 10px 0 0 0;
+    font-size: 24px;
+    color: white;
+}
+
+.hero-container {
+    padding-top: 220px;
+}
+
+.hero-bg-img {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.btn-watch-video {
+    font-size: 16px;
+    margin-left: 25px;
+    font-weight: 600;
+    color: white;
+}
+
+.icon {
+    color: #e03a3c;
+}
+
+.watch-vid:hover {
+    color: #e03a3c;
+}
+
+/* Hero Section */
+
+/* =============================================================================================================================== */
+
+/* Clients Section */
+
+.client {
+    padding-top: 220px;
+}
+
+.cli-1 {
+    width: 95px !important;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.owl-adj {
+    padding-top: 300px;
+    padding-bottom: 10px;
+}
+
+/* Clients Section */
+
+
+/* SLANDING LINE  */
+
+.sland1 {
+    background-color: white;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+.sland2 {
+    background-color: black;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    transform: skewY(-2deg);
+}
+
+
+/* SLANDING LINE  */
+
+
+/* about section */
+
+.about-row {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.abt-h3 {
+
+    font-weight: 700;
+    font-size: 34px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.abt-3 {
+    margin-bottom: 30px;
+    font-weight: 500;
+    color: white;
+}
+
+.abt-btn {
+    padding: 8px 30px 9px 30px;
+    color: white;
+    background-color: black;
+    border-radius: 50px;
+    transition: 0.3s;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 13px;
+    display: inline-flex;
+    align-items: center;
+    border: 2px solid red;
+}
+
+.abt-sec {
+    background-color: black;
+}
+
+.breifcase-icon {
+    font-size: 35px;
+    padding-top: 2px;
+    color: red;
+    margin-bottom: 10px;
+}
+
+.stretched-link{
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+}
+
+.stretched-link:hover{
+    color: red;
+}
+
+.breif-col{
+    padding-top: 10px;
+    color:white;
+}
+
+/* about section */
+
+/* =============================================================================================================================== */
+
+/* Status section */
+
+.status-main{
+    padding-top: 50px;
+}
+
+.stat-count{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.stat-count-p{
+    font-size: 16px;
+}
+
+.stat-icon{
+    font-size: 24px;
+    color: #e03a3c;
+}
+
+/* Status section */
+
+/* =============================================================================================================================== */
+
+/* Tabs Section */
+
+.tab-main{
+    padding-top: 50px;
+}
+
+.tab-content-main{
+    padding-top: 30px;
+}
+
+
+
+
+
+
+
+
+/* Tabs Section */
